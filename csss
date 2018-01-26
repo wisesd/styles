@@ -1,0 +1,22 @@
+<a href="#" class="wsbutton">Button</a>
+<style>
+a.wsbutton{
+    background: #3DB0F1;
+    border-radius: 40px;
+    box-shadow: 0 -3px 0 0 hsla(0, 0%, 0%, 0.2) inset;
+    color: #ffffff;
+    display: table;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.5;
+    padding: 10px 25px;
+    margin:0 auto;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+a.wsbutton:hover {
+    background: #EB0563;
+    box-shadow: 0 3px 0 0 hsla(0, 0%, 0%, 0.2) inset;/
+}
+</style>
